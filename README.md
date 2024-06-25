@@ -1,7 +1,5 @@
 # SCT_WD_2
 
-This repository consists of a tic tac toe game created by me using html,css,and javascript
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +7,7 @@ This repository consists of a tic tac toe game created by me using html,css,and 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
 <body>
-  Tic Tac Toe Game
+  <h1>Tic Tac Toe Game</h1>
 
   <h2>Description</h2>
     <p>This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. The game allows two players to play against each other on the same device.</p>
